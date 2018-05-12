@@ -1,0 +1,38 @@
+_repo: Tales-of-Secret-Egypt_40108
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 40108-h/images/egyptcover.jpg
+creator:
+  author:
+    agent_name: Rohmer, Sax
+    alias: Ward, Arthur Sarsfield
+    birthdate: 1883
+    deathdate: 1959
+    gutenberg_agent_id: '110'
+    url: http://www.gutenberg.org/2009/agents/110
+    wikipedia: http://en.wikipedia.org/wiki/Sax_Rohmer
+description: 'Part I. Tales of Abu Tabah: The Yashmak of Pearls ; The Death-Ring of
+  Sneferu ; The Lady of the Lattice ; Omar of Ispahan ; Breath of Allah ; and The
+  Whispering Mummy. Part II. Other Tales: Lord of the Jackals ; Lure of Souls ; The
+  Secret of Ismail ; Harun Pasha ; In the Valley of the Sorceress ; and Pomegranate
+  Flower.'
+gutenberg_issued: '2012-06-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '40108'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Egypt -- Fiction'
+- !lcsh 'Mystery and detective stories'
+- !lcc 'PR'
+- !lcsh 'Short stories'
+tableOfContents: 'Part I. Tales of Abû Tabâh: The Yashmak of Pearls. The Death-Ring
+  of Sneferu. The Lady of the Lattice. Omar of Ispahân. Breath of Allah. The Whispering
+  Mummy -- Part II. Other Tales: Lord of the Jackals. Lure of Souls. The Secret of
+  Ismail. Harûn Pasha. In the Valley of the Sorceress. Pomegranate Flower.'
+title: Tales of Secret Egypt
+url: http://www.gutenberg.org/ebooks/40108
